@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "159286865034",
+    "project_id": "fir-auth-v1-sucalit",
+    "storage_bucket": "fir-auth-v1-sucalit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159286865034:android:631f3e391c3f429e2f9173",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJpbYubH-fU_n3v1N6XniZK3BNMtZ5iw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
